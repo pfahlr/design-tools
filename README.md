@@ -1,16 +1,15 @@
 # DESIGN TOOLS
 
-Not much to see here yet.
+A place where I can put things I create that aid in the design process. 
 
-
-
-## Sections
-
-
+## Directory Layout 
  - `css` : 
    - `color-palettes` : a collection of my favorites
 
 
-... to be continued.
+## Documents
+[RESOURCES: links to useful things](RESOURCES.md)
+
+
 
 
