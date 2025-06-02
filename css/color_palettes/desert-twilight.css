@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: DESERT TWILIGHT                                                        ║
+║ #3d5a80, #98c1d9, #e0fbfc, #ee6c4d, #293241                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"YInMn Blue":"3d5a80","Powder blue":"98c1d9","Light cyan":"e0fbfc","Burnt sienna":"ee6c4d","Gunmetal":"293241"}
+
+/* Tailwind */
+{ 'yinmn-blue': { DEFAULT: '#3d5a80', 100: '#0c1219', 200: '#192433', 300: '#25364c', 400: '#314866', 500: '#3d5a80', 600: '#5279ab', 700: '#7d9ac0', 800: '#a8bcd5', 900: '#d4ddea' }, 'powder-blue': { DEFAULT: '#98c1d9', 100: '#142936', 200: '#28526b', 300: '#3b7ca1', 400: '#61a0c5', 500: '#98c1d9', 600: '#accde0', 700: '#c0d9e8', 800: '#d5e6f0', 900: '#eaf2f7' }, 'light-cyan': { DEFAULT: '#e0fbfc', 100: '#095456', 200: '#11a7ad', 300: '#32e5eb', 400: '#88f0f3', 500: '#e0fbfc', 600: '#e5fcfc', 700: '#ecfcfd', 800: '#f2fdfe', 900: '#f9fefe' }, 'burnt-sienna': { DEFAULT: '#ee6c4d', 100: '#3a1005', 200: '#74200b', 300: '#ae3010', 400: '#e73f16', 500: '#ee6c4d', 600: '#f28b71', 700: '#f5a895', 800: '#f8c5b8', 900: '#fce2dc' }, 'gunmetal': { DEFAULT: '#293241', 100: '#080a0d', 200: '#10141a', 300: '#191e28', 400: '#212835', 500: '#293241', 600: '#485873', 700: '#6a7fa2', 800: '#9ca9c1', 900: '#cdd4e0' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+
+--color-yinmn-blue: #3d5a80;
+--color-yinmn-blue-100: #0c1219;
+--color-yinmn-blue-200: #192433;
+--color-yinmn-blue-300: #25364c;
+--color-yinmn-blue-400: #314866;
+--color-yinmn-blue-500: #3d5a80;
+--color-yinmn-blue-600: #5279ab;
+--color-yinmn-blue-700: #7d9ac0;
+--color-yinmn-blue-800: #a8bcd5;
+--color-yinmn-blue-900: #d4ddea;
+--color-powder-blue: #98c1d9;
+--color-powder-blue-100: #142936;
+--color-powder-blue-200: #28526b;
+--color-powder-blue-300: #3b7ca1;
+--color-powder-blue-400: #61a0c5;
+--color-powder-blue-500: #98c1d9;
+--color-powder-blue-600: #accde0;
+--color-powder-blue-700: #c0d9e8;
+--color-powder-blue-800: #d5e6f0;
+--color-powder-blue-900: #eaf2f7;
+--color-light-cyan: #e0fbfc;
+--color-light-cyan-100: #095456;
+--color-light-cyan-200: #11a7ad;
+--color-light-cyan-300: #32e5eb;
+--color-light-cyan-400: #88f0f3;
+--color-light-cyan-500: #e0fbfc;
+--color-light-cyan-600: #e5fcfc;
+--color-light-cyan-700: #ecfcfd;
+--color-light-cyan-800: #f2fdfe;
+--color-light-cyan-900: #f9fefe;
+--color-burnt-sienna: #ee6c4d;
+--color-burnt-sienna-100: #3a1005;
+--color-burnt-sienna-200: #74200b;
+--color-burnt-sienna-300: #ae3010;
+--color-burnt-sienna-400: #e73f16;
+--color-burnt-sienna-500: #ee6c4d;
+--color-burnt-sienna-600: #f28b71;
+--color-burnt-sienna-700: #f5a895;
+--color-burnt-sienna-800: #f8c5b8;
+--color-burnt-sienna-900: #fce2dc;
+--color-gunmetal: #293241;
+--color-gunmetal-100: #080a0d;
+--color-gunmetal-200: #10141a;
+--color-gunmetal-300: #191e28;
+--color-gunmetal-400: #212835;
+--color-gunmetal-500: #293241;
+--color-gunmetal-600: #485873;
+--color-gunmetal-700: #6a7fa2;
+--color-gunmetal-800: #9ca9c1;
+--color-gunmetal-900: #cdd4e0;

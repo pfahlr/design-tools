@@ -1,0 +1,67 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: OLD LADY's BLOUSE                                                      ║
+║ #d30c7b, #ffe3dc, #dbb4ad, #a2ad91, #3a2d32                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Magenta dye":"d30c7b","Misty rose":"ffe3dc","Tea rose (red)":"dbb4ad","Sage":"a2ad91","Raisin black":"3a2d32"}
+
+
+/* Tailwind */
+{ 'magenta-dye': { DEFAULT: '#d30c7b', 100: '#2a0218', 200: '#550531', 300: '#7f0749', 400: '#aa0a62', 500: '#d30c7b', 600: '#f22797', 700: '#f65db1', 800: '#f993cb', 900: '#fcc9e5' }, 'misty-rose': { DEFAULT: '#ffe3dc', 100: '#5f1300', 200: '#be2600', 300: '#ff4b1e', 400: '#ff977c', 500: '#ffe3dc', 600: '#ffe8e2', 700: '#ffeeea', 800: '#fff4f1', 900: '#fff9f8' }, 'tea-rose-(red)': { DEFAULT: '#dbb4ad', 100: '#371d18', 200: '#6d3930', 300: '#a45648', 400: '#c38277', 500: '#dbb4ad', 600: '#e2c3be', 700: '#ead2ce', 800: '#f1e1de', 900: '#f8f0ef' }, 'sage': { DEFAULT: '#a2ad91', 100: '#21241b', 200: '#414936', 300: '#626d51', 400: '#82916c', 500: '#a2ad91', 600: '#b4bda6', 700: '#c7cebc', 800: '#d9ded2', 900: '#ecefe9' }, 'raisin-black': { DEFAULT: '#3a2d32', 100: '#0c090a', 200: '#171214', 300: '#231b1e', 400: '#2e2328', 500: '#3a2d32', 600: '#685059', 700: '#957581', 800: '#b8a3ab', 900: '#dcd1d5' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-magenta-dye: #d30c7b;
+--color-magenta-dye-100: #2a0218;
+--color-magenta-dye-200: #550531;
+--color-magenta-dye-300: #7f0749;
+--color-magenta-dye-400: #aa0a62;
+--color-magenta-dye-500: #d30c7b;
+--color-magenta-dye-600: #f22797;
+--color-magenta-dye-700: #f65db1;
+--color-magenta-dye-800: #f993cb;
+--color-magenta-dye-900: #fcc9e5;
+--color-misty-rose: #ffe3dc;
+--color-misty-rose-100: #5f1300;
+--color-misty-rose-200: #be2600;
+--color-misty-rose-300: #ff4b1e;
+--color-misty-rose-400: #ff977c;
+--color-misty-rose-500: #ffe3dc;
+--color-misty-rose-600: #ffe8e2;
+--color-misty-rose-700: #ffeeea;
+--color-misty-rose-800: #fff4f1;
+--color-misty-rose-900: #fff9f8;
+--color-tea-rose-(red): #dbb4ad;
+--color-tea-rose-(red)-100: #371d18;
+--color-tea-rose-(red)-200: #6d3930;
+--color-tea-rose-(red)-300: #a45648;
+--color-tea-rose-(red)-400: #c38277;
+--color-tea-rose-(red)-500: #dbb4ad;
+--color-tea-rose-(red)-600: #e2c3be;
+--color-tea-rose-(red)-700: #ead2ce;
+--color-tea-rose-(red)-800: #f1e1de;
+--color-tea-rose-(red)-900: #f8f0ef;
+--color-sage: #a2ad91;
+--color-sage-100: #21241b;
+--color-sage-200: #414936;
+--color-sage-300: #626d51;
+--color-sage-400: #82916c;
+--color-sage-500: #a2ad91;
+--color-sage-600: #b4bda6;
+--color-sage-700: #c7cebc;
+--color-sage-800: #d9ded2;
+--color-sage-900: #ecefe9;
+--color-raisin-black: #3a2d32;
+--color-raisin-black-100: #0c090a;
+--color-raisin-black-200: #171214;
+--color-raisin-black-300: #231b1e;
+--color-raisin-black-400: #2e2328;
+--color-raisin-black-500: #3a2d32;
+--color-raisin-black-600: #685059;
+--color-raisin-black-700: #957581;
+--color-raisin-black-800: #b8a3ab;
+--color-raisin-black-900: #dcd1d5;

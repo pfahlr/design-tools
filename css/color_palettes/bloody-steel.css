@@ -1,0 +1,65 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: BLOODY STEEL                                                           ║
+║ #0b090a, #660708, #a4161a, #db090c, #a9a5b0                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Night":"0b090a","Blood red":"660708","Cornell red":"a4161a","Rojo":"db090c","Rose quartz":"a9a5b0"}
+
+/* Tailwind */
+{ 'night': { DEFAULT: '#0b090a', 100: '#020202', 200: '#040404', 300: '#070606', 400: '#090708', 500: '#0b090a', 600: '#41353b', 700: '#77616c', 800: '#a7939d', 900: '#d3c9ce' }, 'blood-red': { DEFAULT: '#660708', 100: '#140102', 200: '#280303', 300: '#3c0405', 400: '#500607', 500: '#660708', 600: '#af0c0f', 700: '#ef1d20', 800: '#f5686b', 900: '#fab4b5' }, 'cornell-red': { DEFAULT: '#a4161a', 100: '#200405', 200: '#41090b', 300: '#610d10', 400: '#811215', 500: '#a4161a', 600: '#db1e24', 700: '#e75358', 800: '#ef8c8f', 900: '#f7c6c7' }, 'rojo': { DEFAULT: '#db090c', 100: '#2c0203', 200: '#580405', 300: '#840608', 400: '#b0070a', 500: '#db090c', 600: '#f6282b', 700: '#f85d60', 800: '#fb9395', 900: '#fdc9ca' }, 'rose-quartz': { DEFAULT: '#a9a5b0', 100: '#222025', 200: '#434049', 300: '#655f6e', 400: '#868091', 500: '#a9a5b0', 600: '#bab7c0', 700: '#ccc9d0', 800: '#dddbe0', 900: '#eeedef' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-night: #0b090a;
+--color-night-100: #020202;
+--color-night-200: #040404;
+--color-night-300: #070606;
+--color-night-400: #090708;
+--color-night-500: #0b090a;
+--color-night-600: #41353b;
+--color-night-700: #77616c;
+--color-night-800: #a7939d;
+--color-night-900: #d3c9ce;
+--color-blood-red: #660708;
+--color-blood-red-100: #140102;
+--color-blood-red-200: #280303;
+--color-blood-red-300: #3c0405;
+--color-blood-red-400: #500607;
+--color-blood-red-500: #660708;
+--color-blood-red-600: #af0c0f;
+--color-blood-red-700: #ef1d20;
+--color-blood-red-800: #f5686b;
+--color-blood-red-900: #fab4b5;
+--color-cornell-red: #a4161a;
+--color-cornell-red-100: #200405;
+--color-cornell-red-200: #41090b;
+--color-cornell-red-300: #610d10;
+--color-cornell-red-400: #811215;
+--color-cornell-red-500: #a4161a;
+--color-cornell-red-600: #db1e24;
+--color-cornell-red-700: #e75358;
+--color-cornell-red-800: #ef8c8f;
+--color-cornell-red-900: #f7c6c7;
+--color-rojo: #db090c;
+--color-rojo-100: #2c0203;
+--color-rojo-200: #580405;
+--color-rojo-300: #840608;
+--color-rojo-400: #b0070a;
+--color-rojo-500: #db090c;
+--color-rojo-600: #f6282b;
+--color-rojo-700: #f85d60;
+--color-rojo-800: #fb9395;
+--color-rojo-900: #fdc9ca;
+--color-rose-quartz: #a9a5b0;
+--color-rose-quartz-100: #222025;
+--color-rose-quartz-200: #434049;
+--color-rose-quartz-300: #655f6e;
+--color-rose-quartz-400: #868091;
+--color-rose-quartz-500: #a9a5b0;
+--color-rose-quartz-600: #bab7c0;
+--color-rose-quartz-700: #ccc9d0;
+--color-rose-quartz-800: #dddbe0;
+--color-rose-quartz-900: #eeedef;

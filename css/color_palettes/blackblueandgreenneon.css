@@ -1,0 +1,67 @@
+/* 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: BLACK BLUE AND GREEN NEON                                              ║
+║ #003300, #0000ff, #aaff00, #00ff00, #8800ff                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Pakistan green":"003300","Blue":"0000ff","Spring bud":"aaff00","Green":"00ff00","Electric violet":"8800ff"}
+
+/* Tailwind */
+{ 'pakistan-green': { DEFAULT: '#003300', 100: '#000a00', 200: '#001400', 300: '#001f00', 400: '#002900', 500: '#003300', 600: '#008f00', 700: '#00eb00', 800: '#47ff47', 900: '#a3ffa3' }, 'blue': { DEFAULT: '#0000ff', 100: '#000033', 200: '#000066', 300: '#000099', 400: '#0000cc', 500: '#0000ff', 600: '#3333ff', 700: '#6666ff', 800: '#9999ff', 900: '#ccccff' }, 'spring-bud': { DEFAULT: '#aaff00', 100: '#223300', 200: '#446600', 300: '#669900', 400: '#88cc00', 500: '#aaff00', 600: '#bbff33', 700: '#ccff66', 800: '#ddff99', 900: '#eeffcc' }, 'green': { DEFAULT: '#00ff00', 100: '#003300', 200: '#006600', 300: '#009900', 400: '#00cc00', 500: '#00ff00', 600: '#33ff33', 700: '#66ff66', 800: '#99ff99', 900: '#ccffcc' }, 'electric-violet': { DEFAULT: '#8800ff', 100: '#1b0033', 200: '#360066', 300: '#520099', 400: '#6d00cc', 500: '#8800ff', 600: '#a033ff', 700: '#b866ff', 800: '#cf99ff', 900: '#e7ccff' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+
+
+--color-pakistan-green: #003300;
+--color-pakistan-green-100: #000a00;
+--color-pakistan-green-200: #001400;
+--color-pakistan-green-300: #001f00;
+--color-pakistan-green-400: #002900;
+--color-pakistan-green-500: #003300;
+--color-pakistan-green-600: #008f00;
+--color-pakistan-green-700: #00eb00;
+--color-pakistan-green-800: #47ff47;
+--color-pakistan-green-900: #a3ffa3;
+--color-blue: #0000ff;
+--color-blue-100: #000033;
+--color-blue-200: #000066;
+--color-blue-300: #000099;
+--color-blue-400: #0000cc;
+--color-blue-500: #0000ff;
+--color-blue-600: #3333ff;
+--color-blue-700: #6666ff;
+--color-blue-800: #9999ff;
+--color-blue-900: #ccccff;
+--color-spring-bud: #aaff00;
+--color-spring-bud-100: #223300;
+--color-spring-bud-200: #446600;
+--color-spring-bud-300: #669900;
+--color-spring-bud-400: #88cc00;
+--color-spring-bud-500: #aaff00;
+--color-spring-bud-600: #bbff33;
+--color-spring-bud-700: #ccff66;
+--color-spring-bud-800: #ddff99;
+--color-spring-bud-900: #eeffcc;
+--color-green: #00ff00;
+--color-green-100: #003300;
+--color-green-200: #006600;
+--color-green-300: #009900;
+--color-green-400: #00cc00;
+--color-green-500: #00ff00;
+--color-green-600: #33ff33;
+--color-green-700: #66ff66;
+--color-green-800: #99ff99;
+--color-green-900: #ccffcc;
+--color-electric-violet: #8800ff;
+--color-electric-violet-100: #1b0033;
+--color-electric-violet-200: #360066;
+--color-electric-violet-300: #520099;
+--color-electric-violet-400: #6d00cc;
+--color-electric-violet-500: #8800ff;
+--color-electric-violet-600: #a033ff;
+--color-electric-violet-700: #b866ff;
+--color-electric-violet-800: #cf99ff;
+--color-electric-violet-900: #e7ccff;

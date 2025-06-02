@@ -1,0 +1,67 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: COFFEE SHOP                                                            ║
+║ #585123, #eec170, #f2a65a, #f58549, #772f1a                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Field drab":"585123","Hunyadi yellow":"eec170","Sandy brown":"f2a65a","Orange (Crayola)":"f58549","Sienna":"772f1a"}
+
+
+/* Tailwind */
+{ 'field-drab': { DEFAULT: '#585123', 100: '#121007', 200: '#23200e', 300: '#353015', 400: '#46401c', 500: '#585123', 600: '#8f8339', 700: '#bdaf59', 800: '#d3ca90', 900: '#e9e4c8' }, 'hunyadi-yellow': { DEFAULT: '#eec170', 100: '#3f2c07', 200: '#7e570f', 300: '#bd8316', 400: '#e7a833', 500: '#eec170', 600: '#f2cf8e', 700: '#f5dbaa', 800: '#f8e7c6', 900: '#fcf3e3' }, 'sandy-brown': { DEFAULT: '#f2a65a', 100: '#3d2105', 200: '#7b420a', 300: '#b8630f', 400: '#ed851d', 500: '#f2a65a', 600: '#f4b87b', 700: '#f7c99c', 800: '#fadbbd', 900: '#fcedde' }, 'orange-(crayola)': { DEFAULT: '#f58549', 100: '#3c1703', 200: '#782e06', 300: '#b44509', 400: '#f05c0d', 500: '#f58549', 600: '#f79d6c', 700: '#f9b591', 800: '#fbceb5', 900: '#fde6da' }, 'sienna': { DEFAULT: '#772f1a', 100: '#170905', 200: '#2f130a', 300: '#461c0f', 400: '#5e2615', 500: '#772f1a', 600: '#b14727', 700: '#d76b4a', 800: '#e59c87', 900: '#f2cec3' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+
+--color-field-drab: #585123;
+--color-field-drab-100: #121007;
+--color-field-drab-200: #23200e;
+--color-field-drab-300: #353015;
+--color-field-drab-400: #46401c;
+--color-field-drab-500: #585123;
+--color-field-drab-600: #8f8339;
+--color-field-drab-700: #bdaf59;
+--color-field-drab-800: #d3ca90;
+--color-field-drab-900: #e9e4c8;
+--color-hunyadi-yellow: #eec170;
+--color-hunyadi-yellow-100: #3f2c07;
+--color-hunyadi-yellow-200: #7e570f;
+--color-hunyadi-yellow-300: #bd8316;
+--color-hunyadi-yellow-400: #e7a833;
+--color-hunyadi-yellow-500: #eec170;
+--color-hunyadi-yellow-600: #f2cf8e;
+--color-hunyadi-yellow-700: #f5dbaa;
+--color-hunyadi-yellow-800: #f8e7c6;
+--color-hunyadi-yellow-900: #fcf3e3;
+--color-sandy-brown: #f2a65a;
+--color-sandy-brown-100: #3d2105;
+--color-sandy-brown-200: #7b420a;
+--color-sandy-brown-300: #b8630f;
+--color-sandy-brown-400: #ed851d;
+--color-sandy-brown-500: #f2a65a;
+--color-sandy-brown-600: #f4b87b;
+--color-sandy-brown-700: #f7c99c;
+--color-sandy-brown-800: #fadbbd;
+--color-sandy-brown-900: #fcedde;
+--color-orange-(crayola): #f58549;
+--color-orange-(crayola)-100: #3c1703;
+--color-orange-(crayola)-200: #782e06;
+--color-orange-(crayola)-300: #b44509;
+--color-orange-(crayola)-400: #f05c0d;
+--color-orange-(crayola)-500: #f58549;
+--color-orange-(crayola)-600: #f79d6c;
+--color-orange-(crayola)-700: #f9b591;
+--color-orange-(crayola)-800: #fbceb5;
+--color-orange-(crayola)-900: #fde6da;
+--color-sienna: #772f1a;
+--color-sienna-100: #170905;
+--color-sienna-200: #2f130a;
+--color-sienna-300: #461c0f;
+--color-sienna-400: #5e2615;
+--color-sienna-500: #772f1a;
+--color-sienna-600: #b14727;
+--color-sienna-700: #d76b4a;
+--color-sienna-800: #e59c87;
+--color-sienna-900: #f2cec3;

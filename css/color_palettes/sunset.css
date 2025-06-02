@@ -1,0 +1,65 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: SUNSET                                                                 ║
+║ #ffbc42, #d81159, #8f2d56, #218380, #73d2de                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Xanthous":"ffbc42","Raspberry":"d81159","Quinacridone magenta":"8f2d56","Teal":"218380","Non Photo blue":"73d2de"}
+
+/* Tailwind */
+{ 'xanthous': { DEFAULT: '#ffbc42', 100: '#402a00', 200: '#815400', 300: '#c17d00', 400: '#ffa602', 500: '#ffbc42', 600: '#ffca68', 700: '#ffd78e', 800: '#ffe5b4', 900: '#fff2d9' }, 'raspberry': { DEFAULT: '#d81159', 100: '#2b0412', 200: '#570724', 300: '#820b36', 400: '#ae0e49', 500: '#d81159', 600: '#ee3378', 700: '#f3669a', 800: '#f799bb', 900: '#fbccdd' }, 'quinacridone-magenta': { DEFAULT: '#8f2d56', 100: '#1d0911', 200: '#391222', 300: '#561b34', 400: '#732445', 500: '#8f2d56', 600: '#c03d74', 700: '#d16c96', 800: '#e09db9', 900: '#f0cedc' }, 'teal': { DEFAULT: '#218380', 100: '#071a19', 200: '#0d3433', 300: '#144e4c', 400: '#1a6866', 500: '#218380', 600: '#2fbab5', 700: '#59d5d1', 800: '#90e3e0', 900: '#c8f1f0' }, 'non-photo-blue': { DEFAULT: '#73d2de', 100: '#0d3237', 200: '#1a636d', 300: '#2695a4', 400: '#3cc0d1', 500: '#73d2de', 600: '#8fdbe5', 700: '#abe4eb', 800: '#c7edf2', 900: '#e3f6f8' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-xanthous: #ffbc42;
+--color-xanthous-100: #402a00;
+--color-xanthous-200: #815400;
+--color-xanthous-300: #c17d00;
+--color-xanthous-400: #ffa602;
+--color-xanthous-500: #ffbc42;
+--color-xanthous-600: #ffca68;
+--color-xanthous-700: #ffd78e;
+--color-xanthous-800: #ffe5b4;
+--color-xanthous-900: #fff2d9;
+--color-raspberry: #d81159;
+--color-raspberry-100: #2b0412;
+--color-raspberry-200: #570724;
+--color-raspberry-300: #820b36;
+--color-raspberry-400: #ae0e49;
+--color-raspberry-500: #d81159;
+--color-raspberry-600: #ee3378;
+--color-raspberry-700: #f3669a;
+--color-raspberry-800: #f799bb;
+--color-raspberry-900: #fbccdd;
+--color-quinacridone-magenta: #8f2d56;
+--color-quinacridone-magenta-100: #1d0911;
+--color-quinacridone-magenta-200: #391222;
+--color-quinacridone-magenta-300: #561b34;
+--color-quinacridone-magenta-400: #732445;
+--color-quinacridone-magenta-500: #8f2d56;
+--color-quinacridone-magenta-600: #c03d74;
+--color-quinacridone-magenta-700: #d16c96;
+--color-quinacridone-magenta-800: #e09db9;
+--color-quinacridone-magenta-900: #f0cedc;
+--color-teal: #218380;
+--color-teal-100: #071a19;
+--color-teal-200: #0d3433;
+--color-teal-300: #144e4c;
+--color-teal-400: #1a6866;
+--color-teal-500: #218380;
+--color-teal-600: #2fbab5;
+--color-teal-700: #59d5d1;
+--color-teal-800: #90e3e0;
+--color-teal-900: #c8f1f0;
+--color-non-photo-blue: #73d2de;
+--color-non-photo-blue-100: #0d3237;
+--color-non-photo-blue-200: #1a636d;
+--color-non-photo-blue-300: #2695a4;
+--color-non-photo-blue-400: #3cc0d1;
+--color-non-photo-blue-500: #73d2de;
+--color-non-photo-blue-600: #8fdbe5;
+--color-non-photo-blue-700: #abe4eb;
+--color-non-photo-blue-800: #c7edf2;
+--color-non-photo-blue-900: #e3f6f8;

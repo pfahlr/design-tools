@@ -1,0 +1,64 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: IN YOUR FUCKING FACE B                                                 ║
+║ #00ff00, #ff0099, #ff0000, #99ff00, #0000ff                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Green":"00ff00","Deep pink":"ff0099","Red":"ff0000","Spring bud":"99ff00","Blue":"0000ff"}
+
+/* Tailwind */
+
+{ 'green': { DEFAULT: '#00ff00', 100: '#003300', 200: '#006600', 300: '#009900', 400: '#00cc00', 500: '#00ff00', 600: '#33ff33', 700: '#66ff66', 800: '#99ff99', 900: '#ccffcc' }, 'deep-pink': { DEFAULT: '#ff0099', 100: '#33001f', 200: '#66003d', 300: '#99005c', 400: '#cc007a', 500: '#ff0099', 600: '#ff33ad', 700: '#ff66c2', 800: '#ff99d6', 900: '#ffcceb' }, 'red': { DEFAULT: '#ff0000', 100: '#330000', 200: '#660000', 300: '#990000', 400: '#cc0000', 500: '#ff0000', 600: '#ff3333', 700: '#ff6666', 800: '#ff9999', 900: '#ffcccc' }, 'spring-bud': { DEFAULT: '#99ff00', 100: '#1f3300', 200: '#3d6600', 300: '#5c9900', 400: '#7acc00', 500: '#99ff00', 600: '#adff33', 700: '#c2ff66', 800: '#d6ff99', 900: '#ebffcc' }, 'blue': { DEFAULT: '#0000ff', 100: '#000033', 200: '#000066', 300: '#000099', 400: '#0000cc', 500: '#0000ff', 600: '#3333ff', 700: '#6666ff', 800: '#9999ff', 900: '#ccccff' } }/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-green: #00ff00;
+--color-green-100: #003300;
+--color-green-200: #006600;
+--color-green-300: #009900;
+--color-green-400: #00cc00;
+--color-green-500: #00ff00;
+--color-green-600: #33ff33;
+--color-green-700: #66ff66;
+--color-green-800: #99ff99;
+--color-green-900: #ccffcc;
+--color-deep-pink: #ff0099;
+--color-deep-pink-100: #33001f;
+--color-deep-pink-200: #66003d;
+--color-deep-pink-300: #99005c;
+--color-deep-pink-400: #cc007a;
+--color-deep-pink-500: #ff0099;
+--color-deep-pink-600: #ff33ad;
+--color-deep-pink-700: #ff66c2;
+--color-deep-pink-800: #ff99d6;
+--color-deep-pink-900: #ffcceb;
+--color-red: #ff0000;
+--color-red-100: #330000;
+--color-red-200: #660000;
+--color-red-300: #990000;
+--color-red-400: #cc0000;
+--color-red-500: #ff0000;
+--color-red-600: #ff3333;
+--color-red-700: #ff6666;
+--color-red-800: #ff9999;
+--color-red-900: #ffcccc;
+--color-spring-bud: #99ff00;
+--color-spring-bud-100: #1f3300;
+--color-spring-bud-200: #3d6600;
+--color-spring-bud-300: #5c9900;
+--color-spring-bud-400: #7acc00;
+--color-spring-bud-500: #99ff00;
+--color-spring-bud-600: #adff33;
+--color-spring-bud-700: #c2ff66;
+--color-spring-bud-800: #d6ff99;
+--color-spring-bud-900: #ebffcc;
+--color-blue: #0000ff;
+--color-blue-100: #000033;
+--color-blue-200: #000066;
+--color-blue-300: #000099;
+--color-blue-400: #0000cc;
+--color-blue-500: #0000ff;
+--color-blue-600: #3333ff;
+--color-blue-700: #6666ff;
+--color-blue-800: #9999ff;
+--color-blue-900: #ccccff;

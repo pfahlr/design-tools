@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: BLUE SPACE                                                             ║
+║ #02010a, #04052e, #140152, #22007c, #0d00a4                                  ║
+║                                                                              ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Black":"02010a","Oxford Blue":"04052e","Federal blue":"140152","Navy blue":"22007c","Duke blue":"0d00a4"}
+
+/* Tailwind */
+{ 'black': { DEFAULT: '#02010a', 100: '#000002', 200: '#010004', 300: '#010106', 400: '#020107', 500: '#02010a', 600: '#140a64', 700: '#2713bf', 800: '#5c49ed', 900: '#aea4f6' }, 'oxford-blue': { DEFAULT: '#04052e', 100: '#010109', 200: '#020213', 300: '#02031c', 400: '#030426', 500: '#04052e', 600: '#0b0d83', 700: '#1316d8', 800: '#5659f0', 900: '#abacf8' }, 'federal-blue': { DEFAULT: '#140152', 100: '#040010', 200: '#080020', 300: '#0c0030', 400: '#100141', 500: '#140152', 600: '#2802a6', 700: '#3c03fa', 800: '#7d55fd', 900: '#beaafe' }, 'navy-blue': { DEFAULT: '#22007c', 100: '#070018', 200: '#0d0031', 300: '#140049', 400: '#1a0062', 500: '#22007c', 600: '#3500c8', 700: '#5416ff', 800: '#8d64ff', 900: '#c6b1ff' }, 'duke-blue': { DEFAULT: '#0d00a4', 100: '#030021', 200: '#050041', 300: '#080062', 400: '#0b0083', 500: '#0d00a4', 600: '#1300e9', 700: '#402fff', 800: '#8074ff', 900: '#bfbaff' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-black: #02010a;
+--color-black-100: #000002;
+--color-black-200: #010004;
+--color-black-300: #010106;
+--color-black-400: #020107;
+--color-black-500: #02010a;
+--color-black-600: #140a64;
+--color-black-700: #2713bf;
+--color-black-800: #5c49ed;
+--color-black-900: #aea4f6;
+--color-oxford-blue: #04052e;
+--color-oxford-blue-100: #010109;
+--color-oxford-blue-200: #020213;
+--color-oxford-blue-300: #02031c;
+--color-oxford-blue-400: #030426;
+--color-oxford-blue-500: #04052e;
+--color-oxford-blue-600: #0b0d83;
+--color-oxford-blue-700: #1316d8;
+--color-oxford-blue-800: #5659f0;
+--color-oxford-blue-900: #abacf8;
+--color-federal-blue: #140152;
+--color-federal-blue-100: #040010;
+--color-federal-blue-200: #080020;
+--color-federal-blue-300: #0c0030;
+--color-federal-blue-400: #100141;
+--color-federal-blue-500: #140152;
+--color-federal-blue-600: #2802a6;
+--color-federal-blue-700: #3c03fa;
+--color-federal-blue-800: #7d55fd;
+--color-federal-blue-900: #beaafe;
+--color-navy-blue: #22007c;
+--color-navy-blue-100: #070018;
+--color-navy-blue-200: #0d0031;
+--color-navy-blue-300: #140049;
+--color-navy-blue-400: #1a0062;
+--color-navy-blue-500: #22007c;
+--color-navy-blue-600: #3500c8;
+--color-navy-blue-700: #5416ff;
+--color-navy-blue-800: #8d64ff;
+--color-navy-blue-900: #c6b1ff;
+--color-duke-blue: #0d00a4;
+--color-duke-blue-100: #030021;
+--color-duke-blue-200: #050041;
+--color-duke-blue-300: #080062;
+--color-duke-blue-400: #0b0083;
+--color-duke-blue-500: #0d00a4;
+--color-duke-blue-600: #1300e9;
+--color-duke-blue-700: #402fff;
+--color-duke-blue-800: #8074ff;
+--color-duke-blue-900: #bfbaff;

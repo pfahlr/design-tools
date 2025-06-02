@@ -1,0 +1,118 @@
+/* 
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                        ║
+║NAME:PINK PASTEL AND BACKGROUND COLORS                                                  ║
+║#552233, #332233, #223366, #334466, #556688, #cdb4db, #ffc8dd, #ffafcc, #bde0fe, #a2d2ff║
+║                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Tyrian purple":"552233","Dark purple":"332233","Delft Blue":"223366","Delft Blue 2":"334466","Payne's gray":"556688","Thistle":"cdb4db","Fairy Tale":"ffc8dd","Carnation pink":"ffafcc","Uranian Blue":"bde0fe","Light Sky Blue":"a2d2ff"}
+
+
+/* Tailwind */
+{ 
+'tyrian-purple': { DEFAULT: '#552233', 100: '#11070a', 200: '#220d14', 300: '#32141e', 400: '#431b28', 500: '#552233', 600: '#8c3854', 700: '#bc5778', 800: '#d28fa5', 900: '#e9c7d2' }, 
+'dark-purple': { DEFAULT: '#332233', 100: '#0a070a', 200: '#150e15', 300: '#1f151f', 400: '#2a1c2a', 500: '#332233', 600: '#674567', 700: '#996799', 800: '#bb99bb', 900: '#ddccdd' }, 
+'delft-blue': { DEFAULT: '#223366', 100: '#070a15', 200: '#0e1529', 300: '#151f3e', 400: '#1c2953', 500: '#223366', 600: '#35509f', 700: '#5773c7', 800: '#8fa2da', 900: '#c7d0ec' }, 
+'delft-blue': { DEFAULT: '#334466', 100: '#0a0e14', 200: '#151b29', 300: '#1f293d', 400: '#293651', 500: '#334466', 600: '#4b6495', 700: '#7188b7', 800: '#a0b0cf', 900: '#d0d7e7' }, 
+'payne's-gray': { DEFAULT: '#556688', 100: '#11141b', 200: '#222836', 300: '#333d51', 400: '#44516c', 500: '#556688', 600: '#7082a5', 700: '#94a1bc', 800: '#b7c0d2', 900: '#dbe0e9' }, 
+'thistle': { DEFAULT: '#cdb4db', 100: '#2b1a36', 200: '#57346b', 300: '#824ea1', 400: '#a87ec1', 500: '#cdb4db', 600: '#d6c2e2', 700: '#e0d2e9', 800: '#ebe1f0', 900: '#f5f0f8' }, 
+'fairy-tale': { DEFAULT: '#ffc8dd', 100: '#5b0023', 200: '#b60046', 300: '#ff116c', 400: '#ff6ca4', 500: '#ffc8dd', 600: '#ffd2e3', 700: '#ffddea', 800: '#ffe9f1', 900: '#fff4f8' }, 
+'carnation-pink': { DEFAULT: '#ffafcc', 100: '#56001f', 200: '#ab003f', 300: '#ff025f', 400: '#ff5895', 500: '#ffafcc', 600: '#ffbed6', 700: '#ffcee0', 800: '#ffdeea', 900: '#ffeff5' }, 
+'uranian-blue': { DEFAULT: '#bde0fe', 100: '#012f57', 200: '#035eaf', 300: '#0f8dfb', 400: '#66b6fd', 500: '#bde0fe', 600: '#cbe6fe', 700: '#d8ecfe', 800: '#e5f3ff', 900: '#f2f9ff' }, 
+'light-sky-blue': { DEFAULT: '#a2d2ff', 100: '#002b54', 200: '#0056a7', 300: '#0082fb', 400: '#50aaff', 500: '#a2d2ff', 600: '#b6dcff', 700: '#c8e4ff', 800: '#daedff', 900: '#edf6ff' } 
+}
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-tyrian-purple: #552233;
+--color-tyrian-purple-100: #11070a;
+--color-tyrian-purple-200: #220d14;
+--color-tyrian-purple-300: #32141e;
+--color-tyrian-purple-400: #431b28;
+--color-tyrian-purple-500: #552233;
+--color-tyrian-purple-600: #8c3854;
+--color-tyrian-purple-700: #bc5778;
+--color-tyrian-purple-800: #d28fa5;
+--color-tyrian-purple-900: #e9c7d2;
+--color-dark-purple: #332233;
+--color-dark-purple-100: #0a070a;
+--color-dark-purple-200: #150e15;
+--color-dark-purple-300: #1f151f;
+--color-dark-purple-400: #2a1c2a;
+--color-dark-purple-500: #332233;
+--color-dark-purple-600: #674567;
+--color-dark-purple-700: #996799;
+--color-dark-purple-800: #bb99bb;
+--color-dark-purple-900: #ddccdd;
+--color-delft-blue: #334466;
+--color-delft-blue-100: #0a0e14;
+--color-delft-blue-200: #151b29;
+--color-delft-blue-300: #1f293d;
+--color-delft-blue-400: #293651;
+--color-delft-blue-500: #334466;
+--color-delft-blue-600: #4b6495;
+--color-delft-blue-700: #7188b7;
+--color-delft-blue-800: #a0b0cf;
+--color-delft-blue-900: #d0d7e7;
+--color-paynes-gray: #556688;
+--color-paynes-gray-100: #11141b;
+--color-paynes-gray-200: #222836;
+--color-paynes-gray-300: #333d51;
+--color-paynes-gray-400: #44516c;
+--color-paynes-gray-500: #556688;
+--color-paynes-gray-600: #7082a5;
+--color-paynes-gray-700: #94a1bc;
+--color-paynes-gray-800: #b7c0d2;
+--color-paynes-gray-900: #dbe0e9;
+--color-thistle: #cdb4db;
+--color-thistle-100: #2b1a36;
+--color-thistle-200: #57346b;
+--color-thistle-300: #824ea1;
+--color-thistle-400: #a87ec1;
+--color-thistle-500: #cdb4db;
+--color-thistle-600: #d6c2e2;
+--color-thistle-700: #e0d2e9;
+--color-thistle-800: #ebe1f0;
+--color-thistle-900: #f5f0f8;
+--color-fairy-tale: #ffc8dd;
+--color-fairy-tale-100: #5b0023;
+--color-fairy-tale-200: #b60046;
+--color-fairy-tale-300: #ff116c;
+--color-fairy-tale-400: #ff6ca4;
+--color-fairy-tale-500: #ffc8dd;
+--color-fairy-tale-600: #ffd2e3;
+--color-fairy-tale-700: #ffddea;
+--color-fairy-tale-800: #ffe9f1;
+--color-fairy-tale-900: #fff4f8;
+--color-carnation-pink: #ffafcc;
+--color-carnation-pink-100: #56001f;
+--color-carnation-pink-200: #ab003f;
+--color-carnation-pink-300: #ff025f;
+--color-carnation-pink-400: #ff5895;
+--color-carnation-pink-500: #ffafcc;
+--color-carnation-pink-600: #ffbed6;
+--color-carnation-pink-700: #ffcee0;
+--color-carnation-pink-800: #ffdeea;
+--color-carnation-pink-900: #ffeff5;
+--color-uranian-blue: #bde0fe;
+--color-uranian-blue-100: #012f57;
+--color-uranian-blue-200: #035eaf;
+--color-uranian-blue-300: #0f8dfb;
+--color-uranian-blue-400: #66b6fd;
+--color-uranian-blue-500: #bde0fe;
+--color-uranian-blue-600: #cbe6fe;
+--color-uranian-blue-700: #d8ecfe;
+--color-uranian-blue-800: #e5f3ff;
+--color-uranian-blue-900: #f2f9ff;
+--color-light-sky-blue: #a2d2ff;
+--color-light-sky-blue-100: #002b54;
+--color-light-sky-blue-200: #0056a7;
+--color-light-sky-blue-300: #0082fb;
+--color-light-sky-blue-400: #50aaff;
+--color-light-sky-blue-500: #a2d2ff;
+--color-light-sky-blue-600: #b6dcff;
+--color-light-sky-blue-700: #c8e4ff;
+--color-light-sky-blue-800: #daedff;
+--color-light-sky-blue-900: #edf6ff;

@@ -1,0 +1,65 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: SCHOOL UNIFORM                                                         ║
+║ #17294f, #2c4b77, #271b1d, #aa814b, #fff0d6                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Space cadet":"17294f","YInMn Blue":"2c4b77","Licorice":"271b1d","Chamoisee":"aa814b","Papaya whip":"fff0d6"}
+
+/* Tailwind */
+{ 'space-cadet': { DEFAULT: '#17294f', 100: '#050810', 200: '#091020', 300: '#0e182f', 400: '#12213f', 500: '#17294f', 600: '#29498e', 700: '#416cc8', 800: '#819dda', 900: '#c0ceed' }, 'yinmn-blue': { DEFAULT: '#2c4b77', 100: '#090f18', 200: '#121e30', 300: '#1a2d47', 400: '#233c5f', 500: '#2c4b77', 600: '#3f6baa', 700: '#678fc7', 800: '#9ab4da', 900: '#ccdaec' }, 'licorice': { DEFAULT: '#271b1d', 100: '#080506', 200: '#100b0c', 300: '#171012', 400: '#1f1617', 500: '#271b1d', 600: '#5b4044', 700: '#90646b', 800: '#b6969c', 900: '#dbcbcd' }, 'chamoisee': { DEFAULT: '#aa814b', 100: '#221a0f', 200: '#44341e', 300: '#664d2d', 400: '#88673c', 500: '#aa814b', 600: '#be9a6c', 700: '#ceb490', 800: '#dfcdb5', 900: '#efe6da' }, 'papaya-whip': { DEFAULT: '#fff0d6', 100: '#5e3b00', 200: '#bc7700', 300: '#ffab1b', 400: '#ffce78', 500: '#fff0d6', 600: '#fff3de', 700: '#fff6e7', 800: '#fff9ef', 900: '#fffcf7' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-space-cadet: #17294f;
+--color-space-cadet-100: #050810;
+--color-space-cadet-200: #091020;
+--color-space-cadet-300: #0e182f;
+--color-space-cadet-400: #12213f;
+--color-space-cadet-500: #17294f;
+--color-space-cadet-600: #29498e;
+--color-space-cadet-700: #416cc8;
+--color-space-cadet-800: #819dda;
+--color-space-cadet-900: #c0ceed;
+--color-yinmn-blue: #2c4b77;
+--color-yinmn-blue-100: #090f18;
+--color-yinmn-blue-200: #121e30;
+--color-yinmn-blue-300: #1a2d47;
+--color-yinmn-blue-400: #233c5f;
+--color-yinmn-blue-500: #2c4b77;
+--color-yinmn-blue-600: #3f6baa;
+--color-yinmn-blue-700: #678fc7;
+--color-yinmn-blue-800: #9ab4da;
+--color-yinmn-blue-900: #ccdaec;
+--color-licorice: #271b1d;
+--color-licorice-100: #080506;
+--color-licorice-200: #100b0c;
+--color-licorice-300: #171012;
+--color-licorice-400: #1f1617;
+--color-licorice-500: #271b1d;
+--color-licorice-600: #5b4044;
+--color-licorice-700: #90646b;
+--color-licorice-800: #b6969c;
+--color-licorice-900: #dbcbcd;
+--color-chamoisee: #aa814b;
+--color-chamoisee-100: #221a0f;
+--color-chamoisee-200: #44341e;
+--color-chamoisee-300: #664d2d;
+--color-chamoisee-400: #88673c;
+--color-chamoisee-500: #aa814b;
+--color-chamoisee-600: #be9a6c;
+--color-chamoisee-700: #ceb490;
+--color-chamoisee-800: #dfcdb5;
+--color-chamoisee-900: #efe6da;
+--color-papaya-whip: #fff0d6;
+--color-papaya-whip-100: #5e3b00;
+--color-papaya-whip-200: #bc7700;
+--color-papaya-whip-300: #ffab1b;
+--color-papaya-whip-400: #ffce78;
+--color-papaya-whip-500: #fff0d6;
+--color-papaya-whip-600: #fff3de;
+--color-papaya-whip-700: #fff6e7;
+--color-papaya-whip-800: #fff9ef;
+--color-papaya-whip-900: #fffcf7;

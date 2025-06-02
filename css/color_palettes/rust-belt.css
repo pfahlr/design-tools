@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: RUST BELT                                                              ║
+║ #971518, #0b0f0f, #a8a9ad, #6d7278, #232323                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Carmine":"971518","Night":"0b0f0f","French gray":"a8a9ad","Dim gray":"6d7278","Eerie black":"232323"}
+
+/* Tailwind */
+{ 'carmine': { DEFAULT: '#971518', 100: '#1f0405', 200: '#3d0809', 300: '#5c0c0e', 400: '#7a1112', 500: '#971518', 600: '#d41d20', 700: '#e74d50', 800: '#ef898a', 900: '#f7c4c5' }, 'night': { DEFAULT: '#0b0f0f', 100: '#020303', 200: '#040606', 300: '#070909', 400: '#090c0c', 500: '#0b0f0f', 600: '#344646', 700: '#5d7e7e', 800: '#90adad', 900: '#c7d6d6' }, 'french-gray': { DEFAULT: '#a8a9ad', 100: '#212223', 200: '#424346', 300: '#63656a', 400: '#85878c', 500: '#a8a9ad', 600: '#bababe', 700: '#cbccce', 800: '#dcddde', 900: '#eeeeef' }, 'dim-gray': { DEFAULT: '#6d7278', 100: '#161718', 200: '#2c2e30', 300: '#414548', 400: '#575b60', 500: '#6d7278', 600: '#898e94', 700: '#a7aaaf', 800: '#c4c7ca', 900: '#e2e3e4' }, 'eerie-black': { DEFAULT: '#232323', 100: '#070707', 200: '#0e0e0e', 300: '#151515', 400: '#1d1d1d', 500: '#232323', 600: '#505050', 700: '#7b7b7b', 800: '#a7a7a7', 900: '#d3d3d3' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-carmine: #971518;
+--color-carmine-100: #1f0405;
+--color-carmine-200: #3d0809;
+--color-carmine-300: #5c0c0e;
+--color-carmine-400: #7a1112;
+--color-carmine-500: #971518;
+--color-carmine-600: #d41d20;
+--color-carmine-700: #e74d50;
+--color-carmine-800: #ef898a;
+--color-carmine-900: #f7c4c5;
+--color-night: #0b0f0f;
+--color-night-100: #020303;
+--color-night-200: #040606;
+--color-night-300: #070909;
+--color-night-400: #090c0c;
+--color-night-500: #0b0f0f;
+--color-night-600: #344646;
+--color-night-700: #5d7e7e;
+--color-night-800: #90adad;
+--color-night-900: #c7d6d6;
+--color-french-gray: #a8a9ad;
+--color-french-gray-100: #212223;
+--color-french-gray-200: #424346;
+--color-french-gray-300: #63656a;
+--color-french-gray-400: #85878c;
+--color-french-gray-500: #a8a9ad;
+--color-french-gray-600: #bababe;
+--color-french-gray-700: #cbccce;
+--color-french-gray-800: #dcddde;
+--color-french-gray-900: #eeeeef;
+--color-dim-gray: #6d7278;
+--color-dim-gray-100: #161718;
+--color-dim-gray-200: #2c2e30;
+--color-dim-gray-300: #414548;
+--color-dim-gray-400: #575b60;
+--color-dim-gray-500: #6d7278;
+--color-dim-gray-600: #898e94;
+--color-dim-gray-700: #a7aaaf;
+--color-dim-gray-800: #c4c7ca;
+--color-dim-gray-900: #e2e3e4;
+--color-eerie-black: #232323;
+--color-eerie-black-100: #070707;
+--color-eerie-black-200: #0e0e0e;
+--color-eerie-black-300: #151515;
+--color-eerie-black-400: #1d1d1d;
+--color-eerie-black-500: #232323;
+--color-eerie-black-600: #505050;
+--color-eerie-black-700: #7b7b7b;
+--color-eerie-black-800: #a7a7a7;
+--color-eerie-black-900: #d3d3d3;

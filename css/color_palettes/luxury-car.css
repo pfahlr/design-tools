@@ -1,0 +1,67 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: LUXURY CAR                                                             ║
+║ #153e96, #0b0f0f, #a8a9ad, #6d7278, #232353                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Marian blue":"153e96","Night":"0b0f0f","French gray":"a8a9ad","Dim gray":"6d7278","Space cadet":"232353"}
+
+
+/* Tailwind */
+{ 'marian-blue': { DEFAULT: '#153e96', 100: '#040d1e', 200: '#09193d', 300: '#0d265b', 400: '#113279', 500: '#153e96', 600: '#1e57d3', 700: '#4e7ee6', 800: '#89a9ee', 900: '#c4d4f7' }, 'night': { DEFAULT: '#0b0f0f', 100: '#020303', 200: '#040606', 300: '#070909', 400: '#090c0c', 500: '#0b0f0f', 600: '#344646', 700: '#5d7e7e', 800: '#90adad', 900: '#c7d6d6' }, 'french-gray': { DEFAULT: '#a8a9ad', 100: '#212223', 200: '#424346', 300: '#63656a', 400: '#85878c', 500: '#a8a9ad', 600: '#bababe', 700: '#cbccce', 800: '#dcddde', 900: '#eeeeef' }, 'dim-gray': { DEFAULT: '#6d7278', 100: '#161718', 200: '#2c2e30', 300: '#414548', 400: '#575b60', 500: '#6d7278', 600: '#898e94', 700: '#a7aaaf', 800: '#c4c7ca', 900: '#e2e3e4' }, 'space-cadet': { DEFAULT: '#232353', 100: '#070711', 200: '#0e0e21', 300: '#151532', 400: '#1c1c42', 500: '#232353', 600: '#3a3a8a', 700: '#5959b9', 800: '#9090d1', 900: '#c8c8e8' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-marian-blue: #153e96;
+--color-marian-blue-100: #040d1e;
+--color-marian-blue-200: #09193d;
+--color-marian-blue-300: #0d265b;
+--color-marian-blue-400: #113279;
+--color-marian-blue-500: #153e96;
+--color-marian-blue-600: #1e57d3;
+--color-marian-blue-700: #4e7ee6;
+--color-marian-blue-800: #89a9ee;
+--color-marian-blue-900: #c4d4f7;
+--color-night: #0b0f0f;
+--color-night-100: #020303;
+--color-night-200: #040606;
+--color-night-300: #070909;
+--color-night-400: #090c0c;
+--color-night-500: #0b0f0f;
+--color-night-600: #344646;
+--color-night-700: #5d7e7e;
+--color-night-800: #90adad;
+--color-night-900: #c7d6d6;
+--color-french-gray: #a8a9ad;
+--color-french-gray-100: #212223;
+--color-french-gray-200: #424346;
+--color-french-gray-300: #63656a;
+--color-french-gray-400: #85878c;
+--color-french-gray-500: #a8a9ad;
+--color-french-gray-600: #bababe;
+--color-french-gray-700: #cbccce;
+--color-french-gray-800: #dcddde;
+--color-french-gray-900: #eeeeef;
+--color-dim-gray: #6d7278;
+--color-dim-gray-100: #161718;
+--color-dim-gray-200: #2c2e30;
+--color-dim-gray-300: #414548;
+--color-dim-gray-400: #575b60;
+--color-dim-gray-500: #6d7278;
+--color-dim-gray-600: #898e94;
+--color-dim-gray-700: #a7aaaf;
+--color-dim-gray-800: #c4c7ca;
+--color-dim-gray-900: #e2e3e4;
+--color-space-cadet: #232353;
+--color-space-cadet-100: #070711;
+--color-space-cadet-200: #0e0e21;
+--color-space-cadet-300: #151532;
+--color-space-cadet-400: #1c1c42;
+--color-space-cadet-500: #232353;
+--color-space-cadet-600: #3a3a8a;
+--color-space-cadet-700: #5959b9;
+--color-space-cadet-800: #9090d1;
+--color-space-cadet-900: #c8c8e8;

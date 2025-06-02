@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: SPRINGTIME                                                             ║
+║ #3c1642, #086375, #1dd3b0, #affc41, #b2ff9e                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Russian violet":"3c1642","Caribbean Current":"086375","Turquoise":"1dd3b0","Green Yellow":"affc41","Light green":"b2ff9e"}
+
+/* Tailwind */
+{ 'russian-violet': { DEFAULT: '#3c1642', 100: '#0c040d', 200: '#18091a', 300: '#240d27', 400: '#2f1134', 500: '#3c1642', 600: '#752b81', 700: '#af41c0', 800: '#c980d5', 900: '#e4c0ea' }, 'caribbean-current': { DEFAULT: '#086375', 100: '#021418', 200: '#032830', 300: '#053c48', 400: '#07515f', 500: '#086375', 600: '#0da1bf', 700: '#28cff0', 800: '#70dff5', 900: '#b7effa' }, 'turquoise': { DEFAULT: '#1dd3b0', 100: '#062a23', 200: '#0c5446', 300: '#117f69', 400: '#17a98c', 500: '#1dd3b0', 600: '#41e5c4', 700: '#70ecd3', 800: '#a0f2e2', 900: '#cff9f0' }, 'green-yellow': { DEFAULT: '#affc41', 100: '#253e01', 200: '#497d02', 300: '#6ebb03', 400: '#93f904', 500: '#affc41', 600: '#befd66', 700: '#cefd8c', 800: '#dffeb3', 900: '#effed9' }, 'light-green': { DEFAULT: '#b2ff9e', 100: '#115300', 200: '#21a500', 300: '#32f800', 400: '#6fff4b', 500: '#b2ff9e', 600: '#c1ffb1', 700: '#d0ffc5', 800: '#e0ffd8', 900: '#efffec' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-russian-violet: #3c1642;
+--color-russian-violet-100: #0c040d;
+--color-russian-violet-200: #18091a;
+--color-russian-violet-300: #240d27;
+--color-russian-violet-400: #2f1134;
+--color-russian-violet-500: #3c1642;
+--color-russian-violet-600: #752b81;
+--color-russian-violet-700: #af41c0;
+--color-russian-violet-800: #c980d5;
+--color-russian-violet-900: #e4c0ea;
+--color-caribbean-current: #086375;
+--color-caribbean-current-100: #021418;
+--color-caribbean-current-200: #032830;
+--color-caribbean-current-300: #053c48;
+--color-caribbean-current-400: #07515f;
+--color-caribbean-current-500: #086375;
+--color-caribbean-current-600: #0da1bf;
+--color-caribbean-current-700: #28cff0;
+--color-caribbean-current-800: #70dff5;
+--color-caribbean-current-900: #b7effa;
+--color-turquoise: #1dd3b0;
+--color-turquoise-100: #062a23;
+--color-turquoise-200: #0c5446;
+--color-turquoise-300: #117f69;
+--color-turquoise-400: #17a98c;
+--color-turquoise-500: #1dd3b0;
+--color-turquoise-600: #41e5c4;
+--color-turquoise-700: #70ecd3;
+--color-turquoise-800: #a0f2e2;
+--color-turquoise-900: #cff9f0;
+--color-green-yellow: #affc41;
+--color-green-yellow-100: #253e01;
+--color-green-yellow-200: #497d02;
+--color-green-yellow-300: #6ebb03;
+--color-green-yellow-400: #93f904;
+--color-green-yellow-500: #affc41;
+--color-green-yellow-600: #befd66;
+--color-green-yellow-700: #cefd8c;
+--color-green-yellow-800: #dffeb3;
+--color-green-yellow-900: #effed9;
+--color-light-green: #b2ff9e;
+--color-light-green-100: #115300;
+--color-light-green-200: #21a500;
+--color-light-green-300: #32f800;
+--color-light-green-400: #6fff4b;
+--color-light-green-500: #b2ff9e;
+--color-light-green-600: #c1ffb1;
+--color-light-green-700: #d0ffc5;
+--color-light-green-800: #e0ffd8;
+--color-light-green-900: #efffec;

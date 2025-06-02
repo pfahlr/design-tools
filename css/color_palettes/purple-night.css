@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: PURPLE NIGHT                                                           ║
+║ #080109, #28042F, #430151, #66007A, #8800A3                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Black":"080109","Dark purple":"28042F","Russian violet":"430151","Purple":"66007A","Mauveine":"8800A3"}
+
+/* Tailwind */
+{ 'black': { DEFAULT: '#080109', 100: '#020002', 200: '#030004', 300: '#050106', 400: '#070107', 500: '#080109', 600: '#590b63', 700: '#a915bd', 800: '#d84beb', 900: '#eca5f5' }, 'dark-purple': { DEFAULT: '#28042F', 100: '#080109', 200: '#100213', 300: '#18021c', 400: '#200326', 500: '#28042f', 600: '#6f0b83', 700: '#b713d8', 800: '#d756f0', 900: '#ebabf8' }, 'russian-violet': { DEFAULT: '#430151', 100: '#0d0010', 200: '#1b0020', 300: '#280030', 400: '#360141', 500: '#430151', 600: '#8a02a6', 700: '#d103fa', 800: '#e155fd', 900: '#f0aafe' }, 'purple': { DEFAULT: '#66007A', 100: '#140018', 200: '#290031', 300: '#3d0049', 400: '#520062', 500: '#66007a', 600: '#a700c8', 700: '#d816ff', 800: '#e564ff', 900: '#f2b1ff' }, 'mauveine': { DEFAULT: '#8800A3', 100: '#1b0021', 200: '#360041', 300: '#520062', 400: '#6d0083', 500: '#8800a3', 600: '#c200e9', 700: '#dc2fff', 800: '#e874ff', 900: '#f3baff' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-black: #080109;
+--color-black-100: #020002;
+--color-black-200: #030004;
+--color-black-300: #050106;
+--color-black-400: #070107;
+--color-black-500: #080109;
+--color-black-600: #590b63;
+--color-black-700: #a915bd;
+--color-black-800: #d84beb;
+--color-black-900: #eca5f5;
+--color-dark-purple: #28042F;
+--color-dark-purple-100: #080109;
+--color-dark-purple-200: #100213;
+--color-dark-purple-300: #18021c;
+--color-dark-purple-400: #200326;
+--color-dark-purple-500: #28042f;
+--color-dark-purple-600: #6f0b83;
+--color-dark-purple-700: #b713d8;
+--color-dark-purple-800: #d756f0;
+--color-dark-purple-900: #ebabf8;
+--color-russian-violet: #430151;
+--color-russian-violet-100: #0d0010;
+--color-russian-violet-200: #1b0020;
+--color-russian-violet-300: #280030;
+--color-russian-violet-400: #360141;
+--color-russian-violet-500: #430151;
+--color-russian-violet-600: #8a02a6;
+--color-russian-violet-700: #d103fa;
+--color-russian-violet-800: #e155fd;
+--color-russian-violet-900: #f0aafe;
+--color-purple: #66007A;
+--color-purple-100: #140018;
+--color-purple-200: #290031;
+--color-purple-300: #3d0049;
+--color-purple-400: #520062;
+--color-purple-500: #66007a;
+--color-purple-600: #a700c8;
+--color-purple-700: #d816ff;
+--color-purple-800: #e564ff;
+--color-purple-900: #f2b1ff;
+--color-mauveine: #8800A3;
+--color-mauveine-100: #1b0021;
+--color-mauveine-200: #360041;
+--color-mauveine-300: #520062;
+--color-mauveine-400: #6d0083;
+--color-mauveine-500: #8800a3;
+--color-mauveine-600: #c200e9;
+--color-mauveine-700: #dc2fff;
+--color-mauveine-800: #e874ff;
+--color-mauveine-900: #f3baff;

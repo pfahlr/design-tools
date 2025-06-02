@@ -1,0 +1,67 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: IN YOUR FUCKING FACE B                                                 ║
+║ #ff6200, #ff00dd, #8800ff, #ddff00, #00ffff                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Orange (Pantone)":"ff6200","Hot magenta":"ff00dd","Electric violet":"8800ff","Chartreuse":"ddff00","Cyan (RGB)":"00ffff"}
+
+/* Tailwind */
+
+{ 'orange-(pantone)': { DEFAULT: '#ff6200', 100: '#331400', 200: '#662700', 300: '#993b00', 400: '#cc4e00', 500: '#ff6200', 600: '#ff8133', 700: '#ffa166', 800: '#ffc099', 900: '#ffe0cc' }, 'hot-magenta': { DEFAULT: '#ff00dd', 100: '#33002c', 200: '#660058', 300: '#990085', 400: '#cc00b1', 500: '#ff00dd', 600: '#ff33e4', 700: '#ff66eb', 800: '#ff99f1', 900: '#ffccf8' }, 'electric-violet': { DEFAULT: '#8800ff', 100: '#1b0033', 200: '#360066', 300: '#520099', 400: '#6d00cc', 500: '#8800ff', 600: '#a033ff', 700: '#b866ff', 800: '#cf99ff', 900: '#e7ccff' }, 'chartreuse': { DEFAULT: '#ddff00', 100: '#2c3300', 200: '#586600', 300: '#859900', 400: '#b1cc00', 500: '#ddff00', 600: '#e4ff33', 700: '#ebff66', 800: '#f1ff99', 900: '#f8ffcc' }, 'cyan-(rgb)': { DEFAULT: '#00ffff', 100: '#003333', 200: '#006666', 300: '#009999', 400: '#00cccc', 500: '#00ffff', 600: '#33ffff', 700: '#66ffff', 800: '#99ffff', 900: '#ccffff' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-orange-(pantone): #ff6200;
+--color-orange-(pantone)-100: #331400;
+--color-orange-(pantone)-200: #662700;
+--color-orange-(pantone)-300: #993b00;
+--color-orange-(pantone)-400: #cc4e00;
+--color-orange-(pantone)-500: #ff6200;
+--color-orange-(pantone)-600: #ff8133;
+--color-orange-(pantone)-700: #ffa166;
+--color-orange-(pantone)-800: #ffc099;
+--color-orange-(pantone)-900: #ffe0cc;
+--color-hot-magenta: #ff00dd;
+--color-hot-magenta-100: #33002c;
+--color-hot-magenta-200: #660058;
+--color-hot-magenta-300: #990085;
+--color-hot-magenta-400: #cc00b1;
+--color-hot-magenta-500: #ff00dd;
+--color-hot-magenta-600: #ff33e4;
+--color-hot-magenta-700: #ff66eb;
+--color-hot-magenta-800: #ff99f1;
+--color-hot-magenta-900: #ffccf8;
+--color-electric-violet: #8800ff;
+--color-electric-violet-100: #1b0033;
+--color-electric-violet-200: #360066;
+--color-electric-violet-300: #520099;
+--color-electric-violet-400: #6d00cc;
+--color-electric-violet-500: #8800ff;
+--color-electric-violet-600: #a033ff;
+--color-electric-violet-700: #b866ff;
+--color-electric-violet-800: #cf99ff;
+--color-electric-violet-900: #e7ccff;
+--color-chartreuse: #ddff00;
+--color-chartreuse-100: #2c3300;
+--color-chartreuse-200: #586600;
+--color-chartreuse-300: #859900;
+--color-chartreuse-400: #b1cc00;
+--color-chartreuse-500: #ddff00;
+--color-chartreuse-600: #e4ff33;
+--color-chartreuse-700: #ebff66;
+--color-chartreuse-800: #f1ff99;
+--color-chartreuse-900: #f8ffcc;
+--color-cyan-(rgb): #00ffff;
+--color-cyan-(rgb)-100: #003333;
+--color-cyan-(rgb)-200: #006666;
+--color-cyan-(rgb)-300: #009999;
+--color-cyan-(rgb)-400: #00cccc;
+--color-cyan-(rgb)-500: #00ffff;
+--color-cyan-(rgb)-600: #33ffff;
+--color-cyan-(rgb)-700: #66ffff;
+--color-cyan-(rgb)-800: #99ffff;
+--color-cyan-(rgb)-900: #ccffff;

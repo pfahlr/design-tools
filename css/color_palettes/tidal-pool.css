@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: TIDAL POOL                                                             ║
+║ #0b132b, #1c2541, #3a506b, #5bc0be, #6fffe9                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Oxford Blue":"0b132b","Space cadet":"1c2541","YInMn Blue":"3a506b","Verdigris":"5bc0be","Fluorescent cyan":"6fffe9"}
+
+/* Tailwind */
+{ 'oxford-blue': { DEFAULT: '#0b132b', 100: '#020409', 200: '#050812', 300: '#070c1b', 400: '#091024', 500: '#0b132b', 600: '#1e3475', 700: '#3154bd', 800: '#6f89da', 900: '#b7c4ec' }, 'space-cadet': { DEFAULT: '#1c2541', 100: '#06070d', 200: '#0b0f1a', 300: '#111627', 400: '#161d33', 500: '#1c2541', 600: '#35467b', 700: '#4f68b4', 800: '#8a9bcd', 900: '#c4cde6' }, 'yinmn-blue': { DEFAULT: '#3a506b', 100: '#0b1015', 200: '#17202a', 300: '#222f40', 400: '#2e3f55', 500: '#3a506b', 600: '#517197', 700: '#7894b6', 800: '#a5b8ce', 900: '#d2dbe7' }, 'verdigris': { DEFAULT: '#5bc0be', 100: '#102828', 200: '#1f5150', 300: '#2f7978', 400: '#3fa2a0', 500: '#5bc0be', 600: '#7bccca', 700: '#9cd8d7', 800: '#bde5e5', 900: '#def2f2' }, 'fluorescent-cyan': { DEFAULT: '#6fffe9', 100: '#00493e', 200: '#00937d', 300: '#00dcbb', 400: '#27ffdf', 500: '#6fffe9', 600: '#8dffee', 700: '#a9fff2', 800: '#c6fff6', 900: '#e2fffb' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-oxford-blue: #0b132b;
+--color-oxford-blue-100: #020409;
+--color-oxford-blue-200: #050812;
+--color-oxford-blue-300: #070c1b;
+--color-oxford-blue-400: #091024;
+--color-oxford-blue-500: #0b132b;
+--color-oxford-blue-600: #1e3475;
+--color-oxford-blue-700: #3154bd;
+--color-oxford-blue-800: #6f89da;
+--color-oxford-blue-900: #b7c4ec;
+--color-space-cadet: #1c2541;
+--color-space-cadet-100: #06070d;
+--color-space-cadet-200: #0b0f1a;
+--color-space-cadet-300: #111627;
+--color-space-cadet-400: #161d33;
+--color-space-cadet-500: #1c2541;
+--color-space-cadet-600: #35467b;
+--color-space-cadet-700: #4f68b4;
+--color-space-cadet-800: #8a9bcd;
+--color-space-cadet-900: #c4cde6;
+--color-yinmn-blue: #3a506b;
+--color-yinmn-blue-100: #0b1015;
+--color-yinmn-blue-200: #17202a;
+--color-yinmn-blue-300: #222f40;
+--color-yinmn-blue-400: #2e3f55;
+--color-yinmn-blue-500: #3a506b;
+--color-yinmn-blue-600: #517197;
+--color-yinmn-blue-700: #7894b6;
+--color-yinmn-blue-800: #a5b8ce;
+--color-yinmn-blue-900: #d2dbe7;
+--color-verdigris: #5bc0be;
+--color-verdigris-100: #102828;
+--color-verdigris-200: #1f5150;
+--color-verdigris-300: #2f7978;
+--color-verdigris-400: #3fa2a0;
+--color-verdigris-500: #5bc0be;
+--color-verdigris-600: #7bccca;
+--color-verdigris-700: #9cd8d7;
+--color-verdigris-800: #bde5e5;
+--color-verdigris-900: #def2f2;
+--color-fluorescent-cyan: #6fffe9;
+--color-fluorescent-cyan-100: #00493e;
+--color-fluorescent-cyan-200: #00937d;
+--color-fluorescent-cyan-300: #00dcbb;
+--color-fluorescent-cyan-400: #27ffdf;
+--color-fluorescent-cyan-500: #6fffe9;
+--color-fluorescent-cyan-600: #8dffee;
+--color-fluorescent-cyan-700: #a9fff2;
+--color-fluorescent-cyan-800: #c6fff6;
+--color-fluorescent-cyan-900: #e2fffb;

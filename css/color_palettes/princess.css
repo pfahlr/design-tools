@@ -1,0 +1,55 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: PRINCESS                                                               ║
+║ #dc47a5, #a96bff, #9499ff, #4794ff, #7fdeff                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Hollywood cerise":"dc47a5","Tropical indigo":"a96bff","Tropical indigo 2":"9499ff","Chefchaouen Blue":"4794ff","Pale azure":"7fdeff"}
+
+/* Tailwind */
+{ 'hollywood-cerise': { DEFAULT: '#dc47a5', 100: '#310922', 200: '#621345', 300: '#931c67', 400: '#c32589', 500: '#dc47a5', 600: '#e36cb7', 700: '#ea90c9', 800: '#f1b5db', 900: '#f8daed' }, 'tropical-indigo': { DEFAULT: '#a96bff', 100: '#1e0048', 200: '#3c0091', 300: '#5b00d9', 400: '#7e23ff', 500: '#a96bff', 600: '#ba89ff', 700: '#cba6ff', 800: '#dcc4ff', 900: '#eee1ff' }, 'tropical-indigo': { DEFAULT: '#9499ff', 100: '#000451', 200: '#0008a1', 300: '#000cf2', 400: '#434dff', 500: '#9499ff', 600: '#a9aeff', 700: '#bfc2ff', 800: '#d4d6ff', 900: '#eaebff' }, 'chefchaouen-blue': { DEFAULT: '#4794ff', 100: '#001b41', 200: '#003683', 300: '#0052c4', 400: '#066eff', 500: '#4794ff', 600: '#6ca9ff', 700: '#91bfff', 800: '#b6d4ff', 900: '#daeaff' }, 'pale-azure': { DEFAULT: '#7fdeff', 100: '#00394d', 200: '#007399', 300: '#00ace6', 400: '#33ccff', 500: '#7fdeff', 600: '#99e6ff', 700: '#b3ecff', 800: '#ccf2ff', 900: '#e5f9ff' } }
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-hollywood-cerise: #dc47a5;
+--color-hollywood-cerise-100: #310922;
+--color-hollywood-cerise-200: #621345;
+--color-hollywood-cerise-300: #931c67;
+--color-hollywood-cerise-400: #c32589;
+--color-hollywood-cerise-500: #dc47a5;
+--color-hollywood-cerise-600: #e36cb7;
+--color-hollywood-cerise-700: #ea90c9;
+--color-hollywood-cerise-800: #f1b5db;
+--color-hollywood-cerise-900: #f8daed;
+--color-tropical-indigo: #9499ff;
+--color-tropical-indigo-100: #000451;
+--color-tropical-indigo-200: #0008a1;
+--color-tropical-indigo-300: #000cf2;
+--color-tropical-indigo-400: #434dff;
+--color-tropical-indigo-500: #9499ff;
+--color-tropical-indigo-600: #a9aeff;
+--color-tropical-indigo-700: #bfc2ff;
+--color-tropical-indigo-800: #d4d6ff;
+--color-tropical-indigo-900: #eaebff;
+--color-chefchaouen-blue: #4794ff;
+--color-chefchaouen-blue-100: #001b41;
+--color-chefchaouen-blue-200: #003683;
+--color-chefchaouen-blue-300: #0052c4;
+--color-chefchaouen-blue-400: #066eff;
+--color-chefchaouen-blue-500: #4794ff;
+--color-chefchaouen-blue-600: #6ca9ff;
+--color-chefchaouen-blue-700: #91bfff;
+--color-chefchaouen-blue-800: #b6d4ff;
+--color-chefchaouen-blue-900: #daeaff;
+--color-pale-azure: #7fdeff;
+--color-pale-azure-100: #00394d;
+--color-pale-azure-200: #007399;
+--color-pale-azure-300: #00ace6;
+--color-pale-azure-400: #33ccff;
+--color-pale-azure-500: #7fdeff;
+--color-pale-azure-600: #99e6ff;
+--color-pale-azure-700: #b3ecff;
+--color-pale-azure-800: #ccf2ff;
+--color-pale-azure-900: #e5f9ff;

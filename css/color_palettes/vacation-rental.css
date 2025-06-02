@@ -1,0 +1,66 @@
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║ NAME: VACATION RENTAL                                                        ║
+║ #381d2a, #3e6990, #aabd8c, #e9e3b4, #f39b6d                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+{"Dark purple":"381d2a","Lapis Lazuli":"3e6990","Olivine":"aabd8c","Vanilla":"e9e3b4","Atomic tangerine":"f39b6d"}
+
+/* Tailwind */
+{ 'dark-purple': { DEFAULT: '#381d2a', 100: '#0b0609', 200: '#170c11', 300: '#22121a', 400: '#2e1822', 500: '#381d2a', 600: '#713a55', 700: '#a9577f', 800: '#c58fa9', 900: '#e2c7d4' }, 'lapis-lazuli': { DEFAULT: '#3e6990', 100: '#0c151d', 200: '#182939', 300: '#253e56', 400: '#315372', 500: '#3e6990', 600: '#5486b6', 700: '#7ea4c8', 800: '#a9c3da', 900: '#d4e1ed' }, 'olivine': { DEFAULT: '#aabd8c', 100: '#232a18', 200: '#465430', 300: '#6a7e49', 400: '#8ca664', 500: '#aabd8c', 600: '#bccba4', 700: '#cdd8bb', 800: '#dee5d2', 900: '#eef2e8' }, 'vanilla': { DEFAULT: '#e9e3b4', 100: '#403b13', 200: '#807525', 300: '#c0b038', 400: '#d7cb74', 500: '#e9e3b4', 600: '#eee9c3', 700: '#f2eed2', 800: '#f6f4e1', 900: '#fbf9f0' }, 'atomic-tangerine': { DEFAULT: '#f39b6d', 100: '#411a05', 200: '#82340b', 300: '#c34f10', 400: '#ee702c', 500: '#f39b6d', 600: '#f6b08a', 700: '#f8c3a7', 800: '#fad7c5', 900: '#fdebe2' } }
+
+
+/* Tailwind 4.x*: add to themes.css inside a @theme {}*/
+--color-dark-purple: #381d2a;
+--color-dark-purple-100: #0b0609;
+--color-dark-purple-200: #170c11;
+--color-dark-purple-300: #22121a;
+--color-dark-purple-400: #2e1822;
+--color-dark-purple-500: #381d2a;
+--color-dark-purple-600: #713a55;
+--color-dark-purple-700: #a9577f;
+--color-dark-purple-800: #c58fa9;
+--color-dark-purple-900: #e2c7d4;
+--color-lapis-lazuli: #3e6990;
+--color-lapis-lazuli-100: #0c151d;
+--color-lapis-lazuli-200: #182939;
+--color-lapis-lazuli-300: #253e56;
+--color-lapis-lazuli-400: #315372;
+--color-lapis-lazuli-500: #3e6990;
+--color-lapis-lazuli-600: #5486b6;
+--color-lapis-lazuli-700: #7ea4c8;
+--color-lapis-lazuli-800: #a9c3da;
+--color-lapis-lazuli-900: #d4e1ed;
+--color-olivine: #aabd8c;
+--color-olivine-100: #232a18;
+--color-olivine-200: #465430;
+--color-olivine-300: #6a7e49;
+--color-olivine-400: #8ca664;
+--color-olivine-500: #aabd8c;
+--color-olivine-600: #bccba4;
+--color-olivine-700: #cdd8bb;
+--color-olivine-800: #dee5d2;
+--color-olivine-900: #eef2e8;
+--color-vanilla: #e9e3b4;
+--color-vanilla-100: #403b13;
+--color-vanilla-200: #807525;
+--color-vanilla-300: #c0b038;
+--color-vanilla-400: #d7cb74;
+--color-vanilla-500: #e9e3b4;
+--color-vanilla-600: #eee9c3;
+--color-vanilla-700: #f2eed2;
+--color-vanilla-800: #f6f4e1;
+--color-vanilla-900: #fbf9f0;
+--color-atomic-tangerine: #f39b6d;
+--color-atomic-tangerine-100: #411a05;
+--color-atomic-tangerine-200: #82340b;
+--color-atomic-tangerine-300: #c34f10;
+--color-atomic-tangerine-400: #ee702c;
+--color-atomic-tangerine-500: #f39b6d;
+--color-atomic-tangerine-600: #f6b08a;
+--color-atomic-tangerine-700: #f8c3a7;
+--color-atomic-tangerine-800: #fad7c5;
+--color-atomic-tangerine-900: #fdebe2;
